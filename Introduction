@@ -1,0 +1,33 @@
+Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents.
+
+Project 1: Make AI-powered brochure generator that scrapes and navigates company websites intelligently.
+Project 2: Build Multi-modal customer support agent for an airline with UI and function-calling.
+Project 3: Develop Tool that creates meeting minutes and action items from audio using both open- and closed-source models.
+Project 4: Make AI that converts Python code to optimized C++, boosting performance by 60,000x!
+Project 5: Build AI knowledge-worker using RAG to become an expert on all company-related matters.
+Project 6: Capstone Part A – Predict product prices from short descriptions using Frontier models.
+Project 7: Capstone Part B – Execute Fine-tuned open-source model to compete with Frontier in price prediction.
+Project 8: Capstone Part C – Build Autonomous multi agent system collaborating with models to spot deals and notify you of special bargains.
+Compare and contrast the latest techniques for improving the performance of your LLM solution, such as RAG, fine-tuning and agentic workflows
+Weigh up the leading 10 frontier and 10 open-source LLMs, and be able to select the best choice for a given task
+
+=========================================================================================
+
+Mastering Generative AI and LLMs: An 8-Week Hands-On Journey
+
+Accelerate your career in AI with practical, real-world projects led by industry veteran Ed Donner. Build advanced Generative AI products, experiment with over 20 groundbreaking models, and master state-of-the-art techniques like RAG, QLoRA, and Agents.
+
+==========================================================================================
+
+• Build advanced Generative AI products using cutting-edge models and frameworks.
+• Experiment with over 20 groundbreaking AI models, including Frontier and Open-Source models.
+• Develop proficiency with platforms like HuggingFace, LangChain, and Gradio.
+• Implement state-of-the-art techniques such as RAG (Retrieval-Augmented Generation), QLoRA fine-tuning, and Agents.
+• Create real-world AI applications, including:
+• A multi-modal customer support assistant that interacts with text, sound, and images.
+• An AI knowledge worker that can answer any question about a company based on its shared drive.
+• An AI programmer that optimizes software, achieving performance improvements of over 60,000 times.
+• An ecommerce application that accurately predicts prices of unseen products.
+• Transition from inference to training, fine-tuning both Frontier and Open-Source models.
+• Deploy AI products to production with polished user interfaces and advanced capabilities.
+• Level up your AI and LLM engineering skills to be at the forefront of the industry.
